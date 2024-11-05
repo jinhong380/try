@@ -13,6 +13,6 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 
-try <- function(x) {
+hello <- function(x) {
   print(x)
 }
